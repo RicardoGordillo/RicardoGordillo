@@ -2,7 +2,7 @@
 
 Soy un estudiante de computación en formación como desarrollador de software.
 
-[Portafolio web](https://ricardogordillo.github.io) · [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/ricardo-miguel-gordillo-acosta-225b00412/]) · [Correo](mailto:[ricardomga524@gmail.com])
+[Portafolio web](https://ricardogordillo.github.io/RicardoGordillo/) · [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/ricardo-miguel-gordillo-acosta-225b00412/]) · [Correo](mailto:[ricardomga524@gmail.com])
 
 ---
 
@@ -71,6 +71,6 @@ Soy un estudiante de computación en formación como desarrollador de software.
 
 | Canal | Enlace |
 |-------|--------|
-| Portafolio | [ricardogordillo.github.io](https://ricardogordillo.github.io) |
+| Portafolio | [ricardogordillo.github.io](https://github.com/RicardoGordillo) |
 | LinkedIn | [Ricardo Gordillo](https://www.linkedin.com/in/ricardo-miguel-gordillo-acosta-225b00412/]) |
 | Correo | [ricardomga524@gmail.com](mailto:ricardomga524@gmail.com) |
