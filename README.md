@@ -55,3 +55,14 @@ Soy un estudiante de computación en formación como desarrollador de software.
     - Historial de compras en el perfil del usuario.
     - Para administradores: registro de productos (comida, ropa y electrónicos), reporte de pedidos y productos más vendidos.
 - **Repositorio:** [RicardoGordillo/ECommerce](https://github.com/RicardoGordillo/ECommerce)
+
+### 🔎 [proyectoLP](https://github.com/RicardoGordillo/proyectoLP)
+
+- **Problema que resuelve:** reconocer los elementos básicos del lenguaje Ruby (primera etapa de un compilador) en un proyecto en equipo.
+- **Tecnologías:** Python 3, PLY (lex), unittest.
+- **Funcionalidades principales:**
+    - Reconoce variables locales, de instancia, de clase y globales, constantes, números, cadenas, operadores, delimitadores, palabras reservadas y comentarios.
+    - Genera un registro por ejecución con los tokens reconocidos y los errores léxicos.
+    - Inclute programas Ruby de prueba y pruebas automatizadas.
+    - Mi aporte: variables e identificadores.
+- **Repositorio:** [RicardoGordillo/proyectoLP](https://github.com/RicardoGordillo/proyectoLP)
