@@ -66,3 +66,11 @@ Soy un estudiante de computación en formación como desarrollador de software.
     - Inclute programas Ruby de prueba y pruebas automatizadas.
     - Mi aporte: variables e identificadores.
 - **Repositorio:** [RicardoGordillo/proyectoLP](https://github.com/RicardoGordillo/proyectoLP)
+
+## Contacto
+
+| Canal | Enlace |
+|-------|--------|
+| Portafolio | [ricardogordillo.github.io](https://ricardogordillo.github.io) |
+| LinkedIn | [Ricardo Gordillo](https://www.linkedin.com/in/ricardo-miguel-gordillo-acosta-225b00412/]) |
+| Correo | [ricardomga524@gmail.com](mailto:ricardomga524@gmail.com) |
