@@ -43,5 +43,15 @@ Soy un estudiante de computación en formación como desarrollador de software.
     - Reservas recurrentes (diaria, semanal o por evento) con el patrón Strategy.
     - Pago con tarjeta, PayPal o transferencia.
     - 21 clases de pruebas unitarias.
-- **Repositorio:** [RicardoGordillo/petdaycare]
-(https://github.com/RicardoGordillo/petdaycare)
+- **Repositorio:** [RicardoGordillo/petdaycare](https://github.com/RicardoGordillo/petdaycare)
+
+### 🛒 [ECommerce](https://github.com/RicardoGordillo/ECommerce)
+
+- **Problema que resuelve:** una tienda virtual móvil donde los clientes compran y los administradores gestionan el inventario.
+- **Tecnologías:** Java, Android (minSdk 26), SQLite, Material Components, Gradle.
+- **Funcionalidades principales:**
+    - Registro e inicio de sesión con roles de cliente y administrador.
+    - Catálogo con búsqueda, carrito de compras y confirmación de pedidos.
+    - Historial de compras en el perfil del usuario.
+    - Para administradores: registro de productos (comida, ropa y electrónicos), reporte de pedidos y productos más vendidos.
+- **Repositorio:** [RicardoGordillo/ECommerce](https://github.com/RicardoGordillo/ECommerce)
