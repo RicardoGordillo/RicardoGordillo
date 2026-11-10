@@ -29,3 +29,19 @@ Soy un estudiante de computación en formación como desarrollador de software.
 | Herramientas | Git, GitHub |
 | Conceptos | Patrones de diseño, análisis léxico, sintáctico y semántico de lenguajes |
 
+## Proyectos destacados
+
+### 🐾 [petdaycare](https://github.com/RicardoGordillo/petdaycare)
+
+- **Problema que resuelve:** gestionar una guardería de mascotas: clientes, mascotas, servicios, reservar y pagos.
+- **Tecnologías:** Java 17, Maven, JUnit 5.
+- **Funcionalidades principales:**
+    - Registro de clientes y mascotas, y reservas con servicios de guardería, hospedaje, paseo y entrenamiento
+    - Extras opcionales sobre un servicio (baño, peluquería, masaje, cámara en vivo) con el patron Decorator.
+    - Creación de mascotas y reservas con el patron Builder.
+    - Notificaciones por correo, SMS y app con el patrón Observer.
+    - Reservas recurrentes (diaria, semanal o por evento) con el patrón Strategy.
+    - Pago con tarjeta, PayPal o transferencia.
+    - 21 clases de pruebas unitarias.
+- **Repositorio:** [RicardoGordillo/petdaycare]
+(https://github.com/RicardoGordillo/petdaycare)
