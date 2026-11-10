@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, mi nombre es Ricardo Gordillo 👋
 
-<!--
-**RicardoGordillo/RicardoGordillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de computación en formación como desarrollador de software.
 
-Here are some ideas to get you started:
+[Portafolio web](https://ricardogordillo.github.io) · [LinkedIn](https://www.linkedin.com/in/[https://www.linkedin.com/in/ricardo-miguel-gordillo-acosta-225b00412/]) · [Correo](mailto:[ricardomga524@gmail.com])
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mí
+
+- Estudio: Estoy en 5to semestre de la carrera ingeniería en computación en la Escuela Superior Politécnica del Litoral
+- Actualmente estoy trabajando en un proyecto cuya intención es recrear el lenguaje de programación Ruby, recreando sus analizadores léxico, sintáctico y semántico; todo esto usando PLY en Python
+- Estoy aprendiendo a integrar Frameworks y APIs en mis proyectos, además de reforzar mis conocimientos en JavaScript
+
